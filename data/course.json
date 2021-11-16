@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Entrepreneurship"
+    ],
+    [
+      "Business",
+      "Project Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "637d9b7f-d216-2888-694d-697ad5c9b5e7",
+      "b62809a7-5f3d-5b1a-b45b-932e3035e3f7",
+      "d460a9e3-b61d-6666-14c8-1fe0cba90453"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Management in Engineering",
+  "course_description": "This course gives an overview of engineering management and covers topics such as financial principles, management of innovation, technology strategy, and best management practices. The focus of the course is the development of individual skills and team work. This is carried out through an exposure to management tools.\n",
+  "department_numbers": [
+    "2",
+    "6",
+    "10",
+    "16"
+  ],
+  "extra_course_numbers": "2.961,6.930,10.806,16.653",
+  "primary_course_number": "2.96",
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
